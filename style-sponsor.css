@@ -142,6 +142,7 @@ a:hover{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+	padding-inline: auto;
 }
 
 #header-hero-left h2{
